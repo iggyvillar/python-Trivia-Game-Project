@@ -1,1 +1,1 @@
-# python-Trivia-Game-Project
+# Python Iggy's Trivia Game
